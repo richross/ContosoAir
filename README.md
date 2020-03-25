@@ -2,6 +2,8 @@
 
 [![Build Status](https://dev.azure.com/rrossdev/demo_GitHub_AzDO/_apis/build/status/richross.ContosoAir?branchName=master)](https://dev.azure.com/rrossdev/demo_GitHub_AzDO/_build/latest?definitionId=12&branchName=master)
 
+[![Build Status](https://dev.azure.com/rrossdev/demo_GitHub_AzDO/_apis/build/status/richross.ContosoAir?branchName=master)](https://dev.azure.com/rrossdev/demo_GitHub_AzDO/_build/latest?definitionId=12&branchName=master)
+
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
